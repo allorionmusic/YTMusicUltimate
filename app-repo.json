@@ -1,0 +1,53 @@
+{
+    "name": "YTMusic Ultimate",
+    "identifier": "ytmusicultimate",
+    "subtitle": "Created by dayanch96, modified by Mead",
+    "description": "Created by dayanch96, modified by Mead",
+    "iconURL": "https://ginsu.dev/repo/api/packageinfo/com.ginsu.ytmusicultimate/icon.png",
+    "website": "https://enmity.unbound.rip/",
+    "tintColor": "#e22a41",
+    "featuredApps": [
+        "com.google.ios.youtubemusic"
+    ],
+    "apps": [
+        {
+            "name": "YTMusic Ultimate",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "developerName": "Mead",
+            "subtitle": "Created by dayanch96, modified by Mead",
+            "localizedDescription": "Created by dayanch96, modified by Mead",
+            "iconURL": "https://ginsu.dev/repo/api/packageinfo/com.ginsu.ytmusicultimate/icon.png",
+            "tintColor": "#e22a41",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "7.21",
+                    "date": "2024-10-06",
+                    "localizedDescription": "Update YouTube Music to 7.21",
+                    "downloadURL": "https://files.catbox.moe/wx9k6t.ipa",
+                    "size": 82909512,
+                    "minOSVersion": "15.0"
+                },
+
+                {
+                    "version": "7.16.3",
+                    "date": "2024-08-30",
+                    "localizedDescription": "Update YouTube Music to 7.16.3",
+                    "downloadURL": "https://files.catbox.moe/5ecpdr.ipa",
+                    "size": 82041945,
+                    "minOSVersion": "15.0"
+                },
+                
+                {
+                    "version": "7.15.2",
+                    "date": "2024-08-26",
+                    "localizedDescription": "Update YouTube Music to 7.15.2",
+                    "downloadURL": "https://files.catbox.moe/nxyipi.ipa",
+                    "size": 81976880,
+                    "minOSVersion": "15.0"
+                }
+            ],
+            "appPermissions": {}
+        }
+    ]
+}    
